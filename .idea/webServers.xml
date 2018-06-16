@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5eb57bc9-19af-452c-bfea-1d9d72cb664d" name="phpdev.caseyjohnson1989.com" url="http://phpdev.caseyjohnson1989.com">
+        <fileTransfer host="phpdev.caseyjohnson1989.com" port="22" rootFolder="/home/casjoh14/phpdev.caseyjohnson1989.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ac7e1be2-1e26-42ae-adaf-03bfb7af7599" name="phpprod.caseyjohnson1989.com" url="http://phpprod.caseyjohnson1989.com">
+        <fileTransfer host="phpprod.caseyjohnson1989.com" port="22" rootFolder="/home/casjoh14/phpprod.caseyjohnson1989.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
